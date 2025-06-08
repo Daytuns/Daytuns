@@ -1,85 +1,63 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=Hey%20I'm%20Dayton!&fontAlign=40&fontColor=ffffff&fontSize=40" />
+<h1 align="center">Hey, I'm Dayton</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Electrical+Engineer+turned+Creative+Coder;Always+learning+something+new;Building+chill,+useful+tools&font=Fira%20Code&center=true&width=500&height=45&color=38bdf8&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4F4F4&center=true&vCenter=true&width=435&lines=Engineer+%7C+Designer+%7C+Tinkerer;I+build+intuitive+tools+with+tech+%26+design;Fueled+by+curiosity+and+espresso" alt="Typing SVG" />
 </p>
 
+
+## About Me
+
+Creative-minded engineer from **Nicaragua**, blending tech, design, and a touch of espresso into everything I build.
+
+Studied **Electrical Engineering** + **Computer Science** at John Brown University — but what really fuels me is making tools that feel human: intuitive, beautiful, and purposeful.
+
 ---
 
-### 👋 About Me
-
-Hey! I'm **Dayton Baldizon** — a creative-minded engineer from Nicaragua, mixing **tech, design**, and a touch of espresso ☕ into everything I build.
-
-I studied **Electrical Engineering** + **Computer Science** at John Brown University, but my true obsession is **creating tools that feel human** — intuitive, beautiful, and fun.
-
----
-
-### 🔧 Projects I'm Brewing
+## Projects I'm Brewing
 
 | Project | Description |
 |--------|-------------|
-| 🎨 **[VibePalette](#)** | Generate color palettes from natural language prompts. |
-| 🎧 **[iPod MP3 + Spotify Player](#)** | A tiny music player that feels like a nostalgic gadget. |
-| 📓 **[TIL + GPT](#)** | My daily "Today I Learned" blog powered by OpenAI. |
-| 🍽️ **[Mi Fritanga](#)** | A simple app for Nicaraguan food vendors to manage sales. |
+| [**VibePalette**](#) | AI-generated color palettes from natural language prompts. |
+| [**iPod MP3 + Spotify Player**](#) | A tiny, nostalgic music player for your desktop. |
+| [**TIL + GPT**](#) | Daily “Today I Learned” blog workflow powered by GPT. |
+| [**Mi Fritanga**](#) | Tool for Nicaraguan street vendors to track sales & menus. |
 
 ---
 
-### 🧰 Toolbox
-
-<p>
-  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=38bdf8"/>
-  <img src="https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=38bdf8"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57"/>
-  <img src="https://img.shields.io/badge/Design-Figma-ff7262?style=flat&logo=figma&logoColor=white"/>
-</p>
-
----
-
-### 🌱 Currently Growing In
-
-- 🔧 Clean, modular **JavaScript & React**
-- 🔙 Backend dev with **Node.js + Express**
-- 🧪 Small apps with **AI + APIs**
-- 🧠 Building habits with a **TIL system**
-
----
-
-### 🎙️ Fun Facts
-
-- 🎓 I’m a **Walton Scholar** 🇺🇸🇳🇮
-- 🤝 I’ve interpreted for American surgeons during medical missions
-- 🧵 I’m obsessed with **tiny details** in CSS and UI interactions
-- 🏞️ I love side projects that feel like cozy corners of the internet
-
----
-
-### 🌐 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/daytonbaldizon">
-    <img src="https://img.shields.io/badge/LinkedIn-Dayton%20Baldizon-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://instagram.com/daytunss">
-    <img src="https://img.shields.io/badge/Instagram-@daytunss-ff69b4?style=for-the-badge&logo=instagram" />
-  </a>
-  <a href="mailto:daytonbaldizon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-daytonbaldizon@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
+## Toolbox
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daytunss&show_icons=true&theme=tokyonight&hide=contribs,prs" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daytunss&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-ff7262?style=flat&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer"/>
+## Currently Growing In
+
+- Clean, modular **JavaScript** & **React**
+- Backend development with **Node.js + Express**
+- Building creative tools using **AI + APIs**
+- Strengthening habits through my **TIL system**
+
+---
+
+## Fun Facts
+
+- Walton Scholar — full ride to study in the U.S.  
+- Medical interpreter during eye surgery missions  
+- Love obsessing over tiny CSS/UI details  
+- Most of my favorite projects started with “why not?”
+
+---
+
+## GitHub at a Glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daytuns&layout=compact&theme=tokyonight&langs_count=6" height="170"/>
+</p>
