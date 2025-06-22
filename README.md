@@ -1,36 +1,18 @@
-<h1 align="center">Hey, I'm Dayton</h1>
+<div style="font-size: 0.75rem; line-height: 1.4;">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4F4F4&center=true&vCenter=true&width=435&lines=Engineer+%7C+Designer+%7C+Tinkerer;I+build+intuitive+tools+with+tech+%26+design;Fueled+by+curiosity+and+espresso" alt="Typing SVG" />
-</p>
+Junior developer and electrical engineer from Nicaragua.  
+I like building tools, solving problems, and turning coffee shops into my office.
 
+#### currently
+- Writing clean JavaScript, React, and Tailwind  
+- Building backend projects with Node.js, Express, and Next.js  
+- Developing AI agents and learning how they work  
+- Coding most days because it’s fun
 
-## About Me
-
-Creative-minded engineer from **Nicaragua**, blending tech, design, and a touch of espresso into everything I build.
-
-Studied **Electrical Engineering** + **Computer Science** at John Brown University — but what really fuels me is making tools that feel human: intuitive, beautiful, and purposeful.
-
----
-
-## Currently Growing In
-
-- Clean, modular **JavaScript** & **React**
-- Backend development with **Node.js + Express**
-- Building creative tools using **AI Agents**
-- Strengthening habits through my **TIL system**
-
----
-
-## Fun Facts
-
+#### previously
+- B.S. Electrical Engineering and Computer Science Minor, John Brown University  
 - Walton Scholar — full ride to study in the U.S.  
 - Medical interpreter during eye surgery missions  
-- Love obsessing over tiny CSS/UI details  
-- I use coffee shops as my office
+- Representing Nicaragua in math competitions
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daytuns&layout=compact&theme=tokyonight&langs_count=6" height="170"/>
-</p>
+</div>
