@@ -4,8 +4,7 @@ Junior developer and electrical engineer from Nicaragua.
 I like building tools, solving problems, and turning coffee shops into my office.
 
 #### currently
-- Writing clean JavaScript, React, and Tailwind  
-- Building backend projects with Node.js, Express, and Next.js  
+- Building fullstack web apps and tools that solve things I care about
 - Developing AI agents and learning how they work  
 - Coding most days because it’s fun
 
