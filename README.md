@@ -15,6 +15,3 @@ I like building tools, solving problems, and turning coffee shops into my office
 
 </div>
 
-<br />
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daytuns&layout=compact&hide_progress=true&card_width=250&hide_title=true&bg_color=00000000)
