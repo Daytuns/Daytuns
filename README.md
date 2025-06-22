@@ -10,7 +10,6 @@ I like building tools, solving problems, and turning coffee shops into my office
 
 #### previously
 - B.S. Electrical Engineering and Computer Science Minor, John Brown University  
-- Walton Scholar — full ride to study in the U.S.  
 - Medical interpreter during eye surgery missions  
 - Representing Nicaragua in math competitions
 
