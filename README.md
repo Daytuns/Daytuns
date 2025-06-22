@@ -12,6 +12,5 @@ I like building tools, solving problems, and turning coffee shops into my office
 - B.S. Electrical Engineering and Computer Science Minor, John Brown University  
 - Medical interpreter during eye surgery missions  
 - Representing Nicaragua in math competitions
-
 </div>
 
