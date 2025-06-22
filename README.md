@@ -27,7 +27,7 @@ Studied **Electrical Engineering** + **Computer Science** at John Brown Universi
 - Walton Scholar — full ride to study in the U.S.  
 - Medical interpreter during eye surgery missions  
 - Love obsessing over tiny CSS/UI details  
-- Most of my favorite projects started with “why not?”
+- I use coffee shops as my office
 
 ---
 
