@@ -13,8 +13,8 @@ I like building tools, solving problems, and turning coffee shops into my office
 - Medical interpreter during eye surgery missions  
 - Representing Nicaragua in math competitions
 
-<br/>
+#### most used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daytuns&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daytuns&hide_progress=true&hide_title=true)
 </div>
 
