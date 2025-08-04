@@ -3,7 +3,7 @@
 Junior developer and electrical engineer from Nicaragua.  
 
 #### currently
-- Building fullstack web apps and tools that solve things I care about
+- Software Developer at Emory Solutions
 - Learning about AI agents  
 - Coding most days because it’s fun
 
