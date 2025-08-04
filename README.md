@@ -1,7 +1,6 @@
 <div style="font-size: 0.75rem; line-height: 1.4;">
 
 Junior developer and electrical engineer from Nicaragua.  
-I like building tools, solving problems, and turning coffee shops into my office.
 
 #### currently
 - Building fullstack web apps and tools that solve things I care about
