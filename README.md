@@ -3,7 +3,7 @@
 Junior developer and electrical engineer from Nicaragua.  
 
 #### currently
-- Software Developer at Emory Solutions
+- Software Developer @ Emory Solutions
 - Learning about AI agents  
 - Coding most days because it’s fun
 
