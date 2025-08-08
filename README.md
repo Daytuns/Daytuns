@@ -4,7 +4,8 @@ Junior developer and electrical engineer from Nicaragua.
 
 #### currently
 - Software Developer @ Emory Solutions
-- Learning about AI agents  
+- Learning about AI agents
+- Running and lifting  
 
 #### previously
 - B.S. Electrical Engineering and Computer Science Minor, John Brown University  
