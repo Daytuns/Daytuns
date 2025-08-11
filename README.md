@@ -8,7 +8,7 @@ Junior developer and electrical engineer from Nicaragua.
 - Running and lifting  
 
 #### previously
-- B.S. Electrical Engineering and Computer Science Minor, John Brown University  
-- Representing Nicaragua in math competitions
+- B.S. Electrical Engineering and Computer Science Minor @ John Brown University  
+- Representing Nicaragua in math olympiads
 </div>
 
