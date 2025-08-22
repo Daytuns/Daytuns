@@ -9,6 +9,5 @@ Nicaraguan junior developer and electrical engineer.
 
 #### previously
 - B.S. Electrical Engineering @ John Brown University  
-- Representing Nicaragua in math olympiads
 </div>
 
