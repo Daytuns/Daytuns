@@ -3,8 +3,8 @@
 Nicaraguan junior developer and electrical engineer.  
 
 #### currently
-- Software Developer @ Emory Solutions
-- Learning about AI agents
+- Web Developer @ Emory Solutions
+- Python and Typescript (Vue and Django)
 - Running and lifting  
 
 #### previously
