@@ -1,6 +1,6 @@
 <div style="font-size: 0.75rem; line-height: 1.4;">
 
-Nicaraguan junior developer and electrical engineer.  
+Junior developer and electrical engineer.  
 
 #### currently
 - Web Developer @ Emory Solutions
