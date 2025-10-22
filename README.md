@@ -4,7 +4,7 @@ Junior developer and electrical engineer.
 
 #### currently
 - Web Developer @ Emory Solutions
-- Python and Typescript (Vue and Django)
+- Python and Typescript (Django and Vue)
 - Running and lifting  
 
 #### previously
